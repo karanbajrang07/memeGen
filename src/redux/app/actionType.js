@@ -1,0 +1,2 @@
+export const DISPLAY_TEXT = "DISPLAY_TEXT";
+export const SET_MOBILE_NAMES = "SET_MOBILE_NAMES";
